@@ -109,10 +109,10 @@ firmware default and never enters this repository.
 
 **The easy way — M5Burner** (no toolchain needed): search *Silicon
 Bubbles* under **CARDPUTER**, hit Burn. Prefer the web catalog,
-[burner.m5stack.com](https://burner.m5stack.com): M5Stack is retiring the
-M5Burner **desktop** app on **1 January 2027** (announced in the app
-itself). Until then both work — if one doesn't list it yet, try the
-other. Either writes a factory image, which
+[burner.m5stack.com](https://burner.m5stack.com): the M5Burner **desktop**
+app now shows a notice that it will be discontinued on **1 January 2027**
+and points users to WebBurner. Until then both work — if one doesn't list
+it yet, try the other. Either writes a factory image, which
 **erases existing device settings**.
 
 **Or flash the release binary** — always available, whatever happens to

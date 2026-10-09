@@ -116,9 +116,9 @@ jamais une valeur par défaut du firmware et n'entre jamais dans ce dépôt.
 **Le plus simple — M5Burner** (aucun outillage à installer) : cherchez
 *Silicon Bubbles* dans la catégorie **CARDPUTER**, cliquez Burn.
 Préférez le catalogue web, [burner.m5stack.com](https://burner.m5stack.com) :
-M5Stack arrête l'application **de bureau** le **1er janvier 2027**
-(annonce affichée dans l'application). D'ici là les deux fonctionnent —
-si l'un ne le liste pas encore, essayez l'autre. Dans les deux cas c'est une image usine : elle
+l'application **de bureau** M5Burner affiche désormais un avis annonçant
+son arrêt au **1er janvier 2027** et renvoie vers WebBurner. D'ici là les
+deux fonctionnent — si l'un ne le liste pas encore, essayez l'autre. Dans les deux cas c'est une image usine : elle
 **efface les réglages présents sur l'appareil**.
 
 **Ou flashez le binaire de la release** — toujours disponible, quel que
