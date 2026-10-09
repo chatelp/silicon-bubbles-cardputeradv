@@ -108,10 +108,11 @@ firmware default and never enters this repository.
 ## Install
 
 **The easy way — M5Burner** (no toolchain needed): search *Silicon
-Bubbles* under **CARDPUTER**, hit Burn. M5Burner comes as a desktop app
-and as a web catalog at
-[burner.m5stack.com](https://burner.m5stack.com); if one of them doesn't
-list it yet, try the other. Either writes a factory image, which
+Bubbles* under **CARDPUTER**, hit Burn. Prefer the web catalog,
+[burner.m5stack.com](https://burner.m5stack.com): M5Stack is retiring the
+M5Burner **desktop** app on **1 January 2027** (announced in the app
+itself). Until then both work — if one doesn't list it yet, try the
+other. Either writes a factory image, which
 **erases existing device settings**.
 
 **Or flash the release binary** — always available, whatever happens to
