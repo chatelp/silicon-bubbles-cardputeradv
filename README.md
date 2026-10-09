@@ -107,12 +107,15 @@ firmware default and never enters this repository.
 
 ## Install
 
-**The easy way — [M5Burner](https://docs.m5stack.com/en/download)**
-(no toolchain needed): open M5Burner, pick **CARDPUTER**, search
-*Silicon Bubbles*, hit Burn. Note this writes a factory image, which
+**The easy way — M5Burner** (no toolchain needed): search *Silicon
+Bubbles* under **CARDPUTER**, hit Burn. M5Burner is moving from the
+desktop app to the web catalog at
+[burner.m5stack.com](https://burner.m5stack.com) — if one of them
+doesn't have it yet, try the other. Either writes a factory image, which
 **erases existing device settings**.
 
-**Or flash the release binary** from
+**Or flash the release binary** — always available, whatever happens to
+the catalogs — from
 [v0.19.0](https://github.com/chatelp/silicon-bubbles-cardputeradv/releases/latest)
 — the combined image goes at address 0:
 

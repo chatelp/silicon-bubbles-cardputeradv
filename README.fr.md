@@ -113,12 +113,15 @@ jamais une valeur par défaut du firmware et n'entre jamais dans ce dépôt.
 
 ## Installer
 
-**Le plus simple — [M5Burner](https://docs.m5stack.com/en/download)**
-(aucun outillage à installer) : ouvrez M5Burner, catégorie **CARDPUTER**,
-cherchez *Silicon Bubbles*, cliquez Burn. Attention, c'est une image
-usine : elle **efface les réglages présents sur l'appareil**.
+**Le plus simple — M5Burner** (aucun outillage à installer) : cherchez
+*Silicon Bubbles* dans la catégorie **CARDPUTER**, cliquez Burn.
+M5Burner migre de l'application de bureau vers le catalogue web
+[burner.m5stack.com](https://burner.m5stack.com) — si l'un ne l'a pas
+encore, essayez l'autre. Dans les deux cas c'est une image usine : elle
+**efface les réglages présents sur l'appareil**.
 
-**Ou flashez le binaire de la release**
+**Ou flashez le binaire de la release** — toujours disponible, quel que
+soit le sort des catalogues —
 [v0.19.0](https://github.com/chatelp/silicon-bubbles-cardputeradv/releases/latest)
 — l'image combinée s'écrit à l'adresse 0 :
 
